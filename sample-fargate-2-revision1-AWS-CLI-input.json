@@ -1,5 +1,5 @@
 {
-    "family": "sample-fargate-1",
+    "family": "sample-fargate-2",
     "containerDefinitions": [
         {
             "name": "survival-prediction-app",
