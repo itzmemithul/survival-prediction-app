@@ -55,7 +55,7 @@ iface = gr.Interface(
         gr.Number(label="Time since Last Event")
     ],
     outputs=gr.Textbox(label="Prediction"),
-    title="Patient Survival Prediction",
+    title="Patient Survival Prediction Application",
     description="Predict survival of patient with heart failure, given their clinical record.",
     allow_flagging = 'never'
 )
